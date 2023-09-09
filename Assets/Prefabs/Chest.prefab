@@ -1,0 +1,737 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1658552364702687583
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5428198882769310970}
+    m_Modifications:
+    - target: {fileID: 4952865191674820077, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865191674820077, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865191674820077, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865191688135051, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865191688135051, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865191688135051, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865191789183122, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865191789183122, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865191789183122, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865191910383607, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865191910383607, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865191910383607, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865191914737921, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865191914737921, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865191914737921, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865191963940811, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865191963940811, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: deleteLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192064560730, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865192064560730, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192064560730, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192102533544, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865192102533544, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192102533544, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192147779142, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865192147779142, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192147779142, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192189846771, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865192189846771, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192189846771, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192259840327, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865192259840327, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192259840327, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192286157221, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192384071131, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865192384071131, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192384071131, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192399691003, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865192399691003, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192399691003, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192421091302, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 109582301}
+    - target: {fileID: 4952865192421091302, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ChooseWrite
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.7988948
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.4088972
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.9379598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.654934
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.9493613
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 9.784115
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9512507
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.30841908
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -35.928
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427574394, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427575172, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_Name
+      value: Menus
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192427575172, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192457555162, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865192457555162, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192457555162, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192489826595, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865192489826595, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192489826595, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192498661001, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865192498661001, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192498661001, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192500493018, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865192500493018, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192500493018, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192529683531, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865192529683531, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192529683531, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192606037217, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 109582301}
+    - target: {fileID: 4952865192606037217, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Back
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192993586697, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865192993586697, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865192993586697, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193007092721, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865193007092721, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193007092721, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193015456688, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 109582301}
+    - target: {fileID: 4952865193015456688, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ChooseRecord
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193037302383, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865193037302383, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193037302383, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193037825724, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865193037825724, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193037825724, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193078614996, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865193078614996, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193078614996, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193206168148, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865193206168148, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193206168148, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193310950947, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865193310950947, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193310950947, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193317335277, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865193317335277, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193317335277, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193330068804, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 109582301}
+    - target: {fileID: 4952865193330068804, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Back
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193391386897, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865193391386897, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193391386897, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193423322061, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865193423322061, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193423322061, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193501464998, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865193501464998, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193501464998, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193656551630, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865193656551630, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193656551630, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193664684913, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1848550261}
+    - target: {fileID: 4952865193664684913, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: spawnMessage
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193695330896, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865193695330896, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193695330896, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193718793818, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1203791060}
+    - target: {fileID: 4952865193718793818, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: tapLetter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952865193718793818, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardScript, Assembly-CSharp
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 4952865192427575173, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+    - {fileID: 4952865192286157211, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+    - {fileID: 4952865192286157209, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+    - {fileID: 4952865193478022209, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+    - {fileID: 4952865192724736062, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+    - {fileID: 4952865193091440811, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+--- !u!1 &6032642276645549787 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4952865192427575172, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+  m_PrefabInstance: {fileID: 1658552364702687583}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &109582301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6032642276645549787}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf6ca04bb84c7f644b5e52c0a2398345, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RecordMSGMenu: {fileID: 6032642277071929834}
+  WriteMSGMenu: {fileID: 6032642276803483898}
+  ChoiceMenu: {fileID: 6032642277304551783}
+--- !u!1 &6032642276803483898 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4952865192286157221, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+  m_PrefabInstance: {fileID: 1658552364702687583}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1848550261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6032642276803483898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5b7bedc91eb4794886c89512eace886, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  message: {fileID: 5137386162788178631, guid: a71ed37ded046964593c71c98c037db2, type: 3}
+  inputField: {fileID: 6032642277759485215}
+  CS: {fileID: 0}
+--- !u!1 &6032642277071929834 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4952865193091440821, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+  m_PrefabInstance: {fileID: 1658552364702687583}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6032642277304551783 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4952865192724736056, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+  m_PrefabInstance: {fileID: 1658552364702687583}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6032642277759485215 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4952865193478022208, guid: 37ad73df11cf7a14a9281de886b29e40, type: 3}
+  m_PrefabInstance: {fileID: 1658552364702687583}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1203791060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6032642277759485215}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0cb861ebaa735b4db0aeb831c4d5027, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inputField: {fileID: 6032642277759485215}
+  stateController: {fileID: 0}
+  canvas: {fileID: 6032642276803483898}
+--- !u!1001 &1658552365077822663
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6651968971205078276, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968971351996515, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968971867988693, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972098336570, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972113826041, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972528543794, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_Name
+      value: Chest
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972528543805, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972528543805, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.80296
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972528543805, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972528543805, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.3471565
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972528543805, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972528543805, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972528543805, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972528543805, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972528543805, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972528543805, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972528543805, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651968972693938643, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.11
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6651968972528543804, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+--- !u!1 &5428198881940836802 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6651968971205078277, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+  m_PrefabInstance: {fileID: 1658552365077822663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5428198882129724583 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6651968971351996512, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+  m_PrefabInstance: {fileID: 1658552365077822663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5428198882225085139 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6651968970925155860, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+  m_PrefabInstance: {fileID: 1658552365077822663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5428198882769310965 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6651968972528543794, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+  m_PrefabInstance: {fileID: 1658552365077822663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1534832484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5428198882769310965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b740b63ec796d064f8c79452642c29fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chestPositions:
+  - {fileID: 5428198882129724583}
+  - {fileID: 5428198883643136473}
+  - {fileID: 5428198881940836802}
+  - {fileID: 5428198883694239245}
+  - {fileID: 5428198883381161017}
+  - {fileID: 5428198882225085139}
+  - {fileID: 5428198882935790871}
+  - {fileID: 5428198883397176316}
+  chestPositionsCurr:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!4 &5428198882769310970 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6651968972528543805, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+  m_PrefabInstance: {fileID: 1658552365077822663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5428198882935790871 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6651968972693938640, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+  m_PrefabInstance: {fileID: 1658552365077822663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5428198883381161017 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6651968972113826046, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+  m_PrefabInstance: {fileID: 1658552365077822663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5428198883397176316 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6651968972098336571, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+  m_PrefabInstance: {fileID: 1658552365077822663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5428198883643136473 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6651968971788543262, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+  m_PrefabInstance: {fileID: 1658552365077822663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5428198883694239245 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6651968971867988682, guid: 7fc35044cf46b944993f65acd3a43ef1, type: 3}
+  m_PrefabInstance: {fileID: 1658552365077822663}
+  m_PrefabAsset: {fileID: 0}
