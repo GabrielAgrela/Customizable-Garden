@@ -40,3 +40,6 @@ Welcome to the **Customizable Garden** Unity package. This package empowers deve
 3. Begin designing your unique garden environment experience for your users 🎨.
 
 Remember, this package is flexible, allowing for extensive customization and personalization. Let your imagination run wild 🌈, and provide your users with an unforgettable virtual gardening experience! 🌳🌺
+
+![Alt text](gd.png)
+
