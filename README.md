@@ -21,6 +21,7 @@ Welcome to the **Customizable Garden** Unity package. This package empowers deve
   - Delete ❌
   - Rotate 🔄
   - Resize 🔍
+    
   To add a new prefab, simply append the `SpawnObjectManipulator` prefab to it. This prefab includes the `InventoryItemManipulator` script and associated UI. Please ensure the correct hitboxes and physics settings are applied to the new object.
 
 ### 📦 Chest:
